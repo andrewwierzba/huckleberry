@@ -1,3 +1,3 @@
-<h1>Huckleberry</h1>
+# Huckleberry
 
-The start to something great.
+* The start to something great.
