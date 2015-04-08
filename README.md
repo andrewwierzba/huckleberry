@@ -1,3 +1,3 @@
 # Huckleberry
 
-* The start to something great.
+The start to something great.
