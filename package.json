@@ -4,7 +4,7 @@
     "description": "A theme for brackets.",
     "version": "1.0.0",
     "author": "Andrew Wierzba",
-    "homepage": "https://github.com/brackets-theme/huckleberry",
+    "homepage": "https://github.com/andrewwierzba/huckleberry",
     "license": "MIT",
     "theme": {
         "file": "huckleberry.css",
