@@ -1,0 +1,14 @@
+{
+    "title": "Huckleberry",
+    "name": "huckleberry",
+    "description": "A theme for brackets.",
+    "version": "1.0.0",
+    "author": "Andrew Wierzba",
+    "homepage": "https://github.com/brackets-theme/huckleberry",
+    "license": "MIT",
+    "theme": {
+        "file": "huckleberry.css",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
